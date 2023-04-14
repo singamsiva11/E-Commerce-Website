@@ -13,3 +13,5 @@ HTML CSSS
 # Authors
 Singam Siva
 Where you can get help with this project / get in contact? 💌 --> Contact me via Mail (singamsivaprasadreddy123@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singamsiva11&hide_progress=true)](https://github.com/singamsiva11/E-Commerce-Website/RedStore--main/github-readme-stats)
